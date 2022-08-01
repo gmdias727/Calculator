@@ -10,11 +10,11 @@
         {
             Console.Clear();
 
-            Console.WriteLine("O que deseja fazer?");
-            Console.WriteLine("1 - Soma");
-            Console.WriteLine("2 - Subtração");
-            Console.WriteLine("3 - Multiplicação");
-            Console.WriteLine("4 - Divisão");
+            Console.WriteLine("What do you want?");
+            Console.WriteLine("1 - Sum");
+            Console.WriteLine("2 - Subtract");
+            Console.WriteLine("3 - Divide");
+            Console.WriteLine("4 - Multiply");
             Console.WriteLine("--------------------");
             Console.WriteLine("Seleciona uma opção: ");
 
