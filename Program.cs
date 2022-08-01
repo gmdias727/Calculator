@@ -45,6 +45,7 @@
 
             float r = v1 + v2;
             Console.WriteLine($"A soma desses valores = {r} {Environment.NewLine}");
+            Console.ReadKey();
             Menu();
         }
 
@@ -62,6 +63,7 @@
 
             float r = v1 - v2;
             Console.WriteLine($"A subtração desses valores = {r} {Environment.NewLine}");
+            Console.ReadKey();
             Menu();
         }
 
@@ -79,6 +81,7 @@
 
             float r = v1 / v2;
             Console.WriteLine($"A divisão desses valores = {r} {Environment.NewLine}");
+            Console.ReadKey();
             Menu();
         }
 
@@ -95,6 +98,7 @@
 
             float r = v1 * v2;
             Console.WriteLine($"A multiplicação desses valores = {r} {Environment.NewLine}");
+            Console.ReadKey();
             Menu();
         }
 
